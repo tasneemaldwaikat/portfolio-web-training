@@ -1,2 +1,2 @@
-# protofile-web-trainning
-A responsve protofile website
+# portfolio-web-trainning
+A responsve portfolio website
