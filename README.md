@@ -1,2 +1,2 @@
-# portfolio-web-trainning
+# portfolio-web-training
 A responsve portfolio website
